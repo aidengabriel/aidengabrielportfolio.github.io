@@ -1,0 +1,106 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="height=device-height, initial-scale=1.0">
+
+
+
+<!-- fonts -->
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
+
+<!-- font-family: 'Cinzel', serif; -->
+<link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
+
+<!-- font-family: 'Roboto', sans-serif; -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+<!-- font-family: 'Montserrat', sans-serif; -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+
+
+<!-- Start Nav/Header -->
+
+  <header id="header">
+    <h2>Aiden Gabriel Portfolio</h2>
+      <h3>
+      <a class="nav-link" href="#welcome-section"> Intro </a>
+      <a class="nav-link" href="#business-plan"> Business Plan </a>
+      <a class="nav-link" href="#projects"> Projects </a>
+      </h3>
+  </header>
+
+<!-- End Nav/Header -->
+
+<div id="body">
+
+<!-- Start Welcome Section -->
+
+  <section id="welcome-section">
+    <div id="box-1">
+      <h1>Hi I'm Aiden Gabriel,<br> and this is what I'm working on.</h1>
+    </div>
+    <div id="box-2">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_SFr1rm_mUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </section>
+  
+<!-- End Welcome Section -->
+
+  
+<!-- Start Business Plan -->
+  
+  <div id="business-plan">
+    <h3>Business Plan</h3>
+    <div id="business-plan-text">
+    <div id="biz-box-1">
+    <h4 class="biz-section-title" id="description-title"> Description </h4>
+      <h5 class="biz-section-text" id="description-text"> Stream Web Development is a Website Devolopment Agency that builds websites for Food Cart Pods that take their messy only presence and streamline it to one primary platform.</h5>
+    <h4 class="biz-section-title" id="mission-title"> Mission </h4>
+      <h5 class="biz-section-text" id="mission-text">Make websites that improve the online presence of Food Cart Pods, get them more customers, and create a better experience for their customers so that they keep coming.</h5>
+    <h4 class="biz-section-title" id="service-title"> Service </h4>
+      <h5 class="biz-section-text" id="service-text"> We will build websites nicely display each of the food carts with branding, a breif discription, their story, and their menu, in a way that's easy for the customer to see and look through. Aswell, customers will be able to order at multiple carts through the site and set the time that they would like it to be ready. This will allow customers to have their food ready for them when they arrive and have a better experience. This will also give the carts more time to make and plan orders, aswell as saving them money on app fees.</h5>
+    </div>
+    <div id="biz-box-2">
+    <h4 class="biz-section-title" id="target-customer-title"> Target Client </h4>
+      <h5 class="biz-section-text" id="target-customer-text">Food Cart Pod owners, primarily ones with 5 or more food carts.</h5>
+    <h4 class="biz-section-title" id="client-acquisition-title"> Client Acquisition </h4>
+      <h5 class="biz-section-text" id="client-acquisition-text"> Get in contact with cart pod owners through Facebook and other online groups, their food cart owners, or emails attached to their existing website if they already have one. </h5>
+    <h4 class="biz-section-title" id="revenue-stream-title"> Revenue Stream </h4>
+      <h5 class="biz-section-text" id="revenue-stream-text">Clients will pay an upfront fee for the website, and then an additional fee whenever a new food cart needs to be added to the site. Then send them an email explaining what we can do in order to get them on a call where we can sell them on the website.</h5>
+    <h4 class="biz-section-title" id="operations-title"> Operations </h4>
+      <h5 class="biz-section-text" id="operations-text"> I will build the websites myself until I feel it's better to delegate certain parts of it at which point I will hire freelancers to build parts of the websites.</h5>
+  </div>
+  </div>
+  </div>
+  
+<!-- End Business Plan -->
+  
+  
+<!-- Start Projects -->
+ 
+  <div id="projects">
+    <div id="projects-box-1">
+      <h3>Projects</h3>
+      <div id="project-types">
+        <a id="javascript-projects" class="project-type" href="https://codepen.io/your-work"> JavaScript </a><br><br><br><br><br><br>
+        <a id="html-projects" class="project-type" href="https://codepen.io/your-work"> HTML & CSS</a>
+       </div>
+    </div>
+    <div id="projects-box-2"><br><br><br><br><br>
+      <ul id="javascript-projects">
+         <li><a href="">Palindrome Checker</a></li>
+         <li><a href="">Roman Numeral Converter</a></li>
+         <li><a href="">Caesers Cipher</a></li>
+         <li><a href="">Telephone Number Validator</a></li>
+         <li><a href="">Cash Register</a></li>
+      </ul>
+      <ul id="html+css-projects">
+         <li><a href="">Survey Form</a></li>
+         <li><a href="">Tribute Page</a></li>
+         <li><a href="">Product Landing Page</a></li>
+         <li><a href="">Technical Documentation Page</a></li>
+      </ul>
+    </div>
+</div>
+<!-- Start Projects -->
+
+</div id="body">
